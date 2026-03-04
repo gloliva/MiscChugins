@@ -1,2 +1,5 @@
 # Build files
 *.o
+
+# Chugin
+*.chug
